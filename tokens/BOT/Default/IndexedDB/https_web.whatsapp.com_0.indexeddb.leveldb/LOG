@@ -1,6 +1,54 @@
-2023/01/26-16:49:05.445 2678 Reusing MANIFEST C:\Users\Usuário\Documents\chatbot\tokens\BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/01/26-16:49:05.445 2678 Recovering log #585
-2023/01/26-16:49:05.466 2678 Reusing old log C:\Users\Usuário\Documents\chatbot\tokens\BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000585.log 
-2023/01/26-16:49:30.789 4290 Level-0 table #599: started
-2023/01/26-16:49:32.107 4290 Level-0 table #599: 1246007 bytes OK
-2023/01/26-16:49:32.170 4290 Delete type=0 #585
+2023/01/26-20:31:01.710 1668 Reusing MANIFEST C:\Users\Usuário\Documents\chatbot\tokens\BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/26-20:31:01.710 1668 Recovering log #23
+2023/01/26-20:31:01.758 1668 Reusing old log C:\Users\Usuário\Documents\chatbot\tokens\BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
+2023/01/26-20:31:02.993 3250 Level-0 table #32: started
+2023/01/26-20:31:03.222 3250 Level-0 table #32: 1155602 bytes OK
+2023/01/26-20:31:03.313 3250 Delete type=0 #23
+2023/01/26-20:31:03.801 495c Compacting 1@0 + 3@1 files
+2023/01/26-20:31:04.056 495c Generated table #33@0: 123007 keys, 2323755 bytes
+2023/01/26-20:31:04.365 495c Generated table #34@0: 6232 keys, 2167337 bytes
+2023/01/26-20:31:04.562 495c Generated table #35@0: 45983 keys, 2022429 bytes
+2023/01/26-20:31:04.563 495c Compacted 1@0 + 3@1 files => 6513521 bytes
+2023/01/26-20:31:04.693 495c compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/01/26-20:31:04.694 495c Delete type=2 #27
+2023/01/26-20:31:04.694 495c Delete type=2 #28
+2023/01/26-20:31:04.695 495c Delete type=2 #29
+2023/01/26-20:31:04.695 495c Delete type=2 #32
+2023/01/26-20:31:19.687 3954 Level-0 table #37: started
+2023/01/26-20:31:20.478 3954 Level-0 table #37: 1170259 bytes OK
+2023/01/26-20:31:20.557 3954 Delete type=0 #31
+2023/01/26-20:31:20.716 1668 Compacting 1@0 + 3@1 files
+2023/01/26-20:31:21.044 1668 Generated table #38@0: 132771 keys, 2319215 bytes
+2023/01/26-20:31:21.295 1668 Generated table #39@0: 11361 keys, 2177019 bytes
+2023/01/26-20:31:21.606 1668 Generated table #40@0: 41566 keys, 1742072 bytes
+2023/01/26-20:31:21.606 1668 Compacted 1@0 + 3@1 files => 6238306 bytes
+2023/01/26-20:31:21.649 1668 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/01/26-20:31:21.650 1668 Delete type=2 #33
+2023/01/26-20:31:21.650 1668 Delete type=2 #34
+2023/01/26-20:31:21.651 1668 Delete type=2 #35
+2023/01/26-20:31:21.651 1668 Delete type=2 #37
+2023/01/26-20:31:49.885 1668 Compacting 1@1 + 1@2 files
+2023/01/26-20:31:50.042 1668 Generated table #41@1: 14952 keys, 1359093 bytes
+2023/01/26-20:31:50.042 1668 Compacted 1@1 + 1@2 files => 1359093 bytes
+2023/01/26-20:31:50.126 1668 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/26-20:31:50.127 1668 Delete type=2 #5
+2023/01/26-20:31:50.127 1668 Delete type=2 #38
+2023/01/26-20:31:57.159 1668 Level-0 table #43: started
+2023/01/26-20:31:57.280 1668 Level-0 table #43: 1122528 bytes OK
+2023/01/26-20:31:57.311 1668 Delete type=0 #36
+2023/01/26-20:31:58.208 3954 Compacting 1@0 + 2@1 files
+2023/01/26-20:31:58.420 3954 Generated table #44@0: 29977 keys, 2193057 bytes
+2023/01/26-20:31:58.650 3954 Generated table #45@0: 52491 keys, 2242654 bytes
+2023/01/26-20:31:58.748 3954 Generated table #46@0: 9128 keys, 223303 bytes
+2023/01/26-20:31:58.748 3954 Compacted 1@0 + 2@1 files => 4659014 bytes
+2023/01/26-20:31:58.791 3954 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/01/26-20:31:58.792 3954 Delete type=2 #39
+2023/01/26-20:31:58.792 3954 Delete type=2 #40
+2023/01/26-20:31:58.792 3954 Delete type=2 #43
+2023/01/26-20:32:08.692 3954 Compacting 1@1 + 1@2 files
+2023/01/26-20:32:09.864 3954 Generated table #47@1: 16626 keys, 2186385 bytes
+2023/01/26-20:32:10.055 3954 Generated table #48@1: 7479 keys, 1187059 bytes
+2023/01/26-20:32:10.055 3954 Compacted 1@1 + 1@2 files => 3373444 bytes
+2023/01/26-20:32:10.127 3954 compacted to: files[ 0 2 2 0 0 0 0 ]
+2023/01/26-20:32:10.127 3954 Delete type=2 #41
+2023/01/26-20:32:10.127 3954 Delete type=2 #44
