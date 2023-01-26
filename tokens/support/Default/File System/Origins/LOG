@@ -1,0 +1,4 @@
+2023/01/26-02:30:46.527 3e78 Log #3: 3 ops saved to Table #4 OK
+2023/01/26-02:30:47.541 3e78 Archiving C:\Users\Usuário\Documents\chatbot\tokens\support\Default\File System\Origins/000003.log: IO error: C:\Users\Usuário\Documents\chatbot\tokens\support\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2023/01/26-02:30:47.541 3e78 Table #4: 3 entries OK
+2023/01/26-02:30:48.543 3e78 Archiving C:\Users\Usuário\Documents\chatbot\tokens\support\Default\File System\Origins/MANIFEST-000001: IO error: C:\Users\Usuário\Documents\chatbot\tokens\support\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
