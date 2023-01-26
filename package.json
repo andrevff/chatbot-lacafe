@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/app.js",
+  
   "scripts": {
     "build": "tsc -p .",
     "dev": "ts-node-dev --inspect --ignore-watch node_modules src/app.ts",
