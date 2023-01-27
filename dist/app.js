@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
 // Supports ES6
-//chatbot
+//chatbot lacafe
 var venom_bot_1 = require("venom-bot");
 venom_bot_1.create('BOT')
     .then(function (client) {
